@@ -23,7 +23,7 @@ def vzlom(arg: str):
 		print(f"\n{Fore.RED}Вашего ввода нет в переменной. Попробуйте заглянуть в исходный код программы.")
 
 def start():
-	print("Heck16, VAND. Made for Ubuntu.")
+	print("Heck32, VAND. Made for Ubuntu.")
 	print("Внимание! Это приложение шуточное.")
 
 	try:
